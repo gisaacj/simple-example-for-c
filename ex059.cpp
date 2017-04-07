@@ -17,5 +17,5 @@ int main(){
 			printf("%5d",i);
 		}
 	}
-	printf("%d",count+1);
+	printf("\n%d",count+1);
 }
